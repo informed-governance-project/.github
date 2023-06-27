@@ -6,9 +6,9 @@ You can have a look at the [global architecture](https://github.com/informed-gov
 
 Main components:
 
-- the [NIS Incident Notification Platform](https://github.com/informed-governance-project/NISINP)
 - the [portal](https://github.com/informed-governance-project/portal)
-- the governance platform is in [this repository](https://github.com/informed-governance-project/governance-platform)
+- the [governance platform](https://github.com/informed-governance-project/governance-platform)
+- the [NIS Incident Notification Platform](https://github.com/informed-governance-project/NISINP)
 
 
 The [MONARC project](https://github.com/monarc-project) is a core part of the Informed Governance Project.
