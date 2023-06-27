@@ -11,7 +11,7 @@ Main components:
 - the [NIS Incident Notification Platform](https://github.com/informed-governance-project/NISINP)
 
 
-The [MONARC project](https://github.com/monarc-project) is a core part of the Informed Governance Project.
+The [MONARC project](https://github.com/monarc-project) is a part of the Informed Governance Project.
 Key points about the intereactions between MONARC and this platform are listed [here](https://github.com/orgs/monarc-project/projects/3).
 More information about MONARC [here](https://www.monarc.lu).
 
