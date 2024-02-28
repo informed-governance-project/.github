@@ -4,11 +4,11 @@
 
 Main components of the governance platform:
 
-- the governance module
-- the NIS Incident Notification module
+- the governance module and [MONARC](https://github.com/monarc-project/)
+- the NIS Incident Notification Platform
 
 You can have a look at the
-[documentation](https://governance-platform.readthedocs.io).
+[documentation](https://nisinp.readthedocs.io).
 
 
 ### Who is behind the Informed Governance Project
