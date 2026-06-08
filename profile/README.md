@@ -4,7 +4,7 @@
 
 Main components of the governance platform:
 
-- Incident Notification Module
+- Incident Notification
 - Security Objectives
 - Report Generation
 
